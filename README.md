@@ -1,2 +1,4 @@
-# react_starter
-React - Flux - ES6 - Babel - Project Scaffolding
+# React - Flux - Es6 - Project Scaffolding
+
+## npm install
+## webpack --watch

@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "flux": "^2.0.3"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.9.9",
+    "babel": "^5.0.12",
+    "babel-core": "^5.0.12",
+    "babel-loader": "^5.0.0",
+    "bundle-loader": "^0.5.2",
+    "es6-promise": "^1.0.0"
+  }
+}
